@@ -165,13 +165,13 @@
     {
       "id": 28,
       "question": "What is the name of the President of the United States now?",
-      "answer": "Joe Biden",
+      "answer": "Donald Trump",
       "category": "System of Government"
     },
     {
       "id": 29,
       "question": "What is the name of the Vice President of the United States now?",
-      "answer": "Kamala Harris",
+      "answer": "JD Vance",
       "category": "System of Government"
     },
     {
@@ -423,7 +423,7 @@
     {
       "id": 71,
       "question": "What territory did the United States buy from France in 1803?",
-      "answer": ["the Louisiana Territory", "Louisiana"],
+      "answer": ["The Louisiana Territory", "Louisiana"],
       "category": "1800s"
     },
     {
@@ -435,7 +435,7 @@
     {
       "id": 73,
       "question": "Name the U.S. war between the North and the South.",
-      "answer": ["the Civil War", "the War between the States"],
+      "answer": ["The Civil War", "The War between the States"],
       "category": "1800s"
     },
     {
