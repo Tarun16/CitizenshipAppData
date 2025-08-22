@@ -602,13 +602,13 @@
     }
   ],
   "categories": [
-    { "name": "Principles of American Democracy", "color": "#FF6B6B" },
+    { "name": "Principles of American Democracy", "color": "#BB8FCE" },
     { "name": "System of Government", "color": "#4ECDC4" },
     { "name": "Rule of Law", "color": "#45B7D1" },
     { "name": "Colonial Period and Independence", "color": "#FFA07A" },
     { "name": "1800s", "color": "#98D8C8" },
     { "name": "1900s and Recent History", "color": "#D4A574" },
-    { "name": "Geography", "color": "#BB8FCE" },
+    { "name": "Geography", "color": "#FF6B6B" },
     { "name": "Symbols", "color": "#85C1E9" },
     { "name": "Holidays", "color": "#F8C471" }
   ],
