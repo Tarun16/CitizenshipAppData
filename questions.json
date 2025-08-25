@@ -117,7 +117,7 @@
     {
       "id": 20,
       "question": "Who is one of your state's U.S. Senators now?",
-      "answer": "Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. Senators.]",
+      "answer": "District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. Senators",
       "category": "System of Government"
     },
     {
@@ -135,7 +135,7 @@
     {
       "id": 23,
       "question": "Name your U.S. Representative.",
-      "answer": "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) Representatives in Congress.]",
+      "answer": "Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) Representatives in Congress.",
       "category": "System of Government"
     },
     {
@@ -255,13 +255,13 @@
     {
       "id": 43,
       "question": "Who is the Governor of your state now?",
-      "answer": "Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.]",
+      "answer": "District of Columbia residents should answer that D.C. does not have a Governor",
       "category": "System of Government"
     },
     {
       "id": 44,
       "question": "What is the capital of your state?",
-      "answer": "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory.]",
+      "answer": "District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory",
       "category": "System of Government"
     },
     {
@@ -327,7 +327,7 @@
     {
       "id": 55,
       "question": "What are two ways that Americans can participate in their democracy?",
-      "answer": ["Vote", "Join a political party", "Help with a campaign", "Join a civic group", "Join a community group", "Give an elected official your opinion on an issue", "Call Senators and Representatives", "Publicly support or oppose an issue or policy", "Run for office", "Write to a newspaper"],
+      "answer": ["Vote", "Join a political party", "Help with a campaign", "Join a civic group", "Join a community group", "Publicly support or oppose an issue or policy", "Run for office", "Write to a newspaper"],
       "category": "Rule of Law"
     },
     {
@@ -339,7 +339,7 @@
     {
       "id": 57,
       "question": "When must all men register for the Selective Service?",
-      "answer": ["At age eighteen (18)", "Between eighteen (18) and twenty-six (26)"],
+      "answer": ["At age eighteen (18)", "Between eighteen (18) and Twenty-six (26)"],
       "category": "Rule of Law"
     },
     {
@@ -405,7 +405,7 @@
     {
       "id": 68,
       "question": "What is one thing Benjamin Franklin is famous for?",
-      "answer": ["U.S. diplomat", "oldest member of the Constitutional Convention", "first Postmaster General of the United States", "writer of \"Poor Richard's Almanac\"", "started the first free public libraries"],
+      "answer": ["U.S. diplomat", "Oldest member of the Constitutional Convention", "First Postmaster General of the United States", "Writer of \"Poor Richard's Almanac\"", "Started the first free public libraries"],
       "category": "Colonial Period and Independence"
     },
     {
