@@ -303,7 +303,7 @@
     {
       "id": 51,
       "question": "What are two rights of everyone living in the United States?",
-      "answer": ["Freedom of expression", "Freedom of speech", "Freedom of assembly", "Freedom to petition the government", "Freedom of religion", "The right to bear arms"],
+      "answer": ["Freedom of religion", "Freedom of speech", "Freedom of expression", "Freedom of assembly", "Freedom to petition the government", "The right to bear arms"],
       "category": "Rule of Law"
     },
     {
@@ -315,7 +315,7 @@
     {
       "id": 53,
       "question": "What is one promise you make when you become a United States citizen?",
-      "answer": ["Give up loyalty to other countries", "Defend the Constitution and laws of the United States", "Obey the laws of the United States", "Serve in the U.S. military (if needed)", "Serve (do important work for) the nation (if needed)", "Be loyal to the United States"],
+      "answer": [ "Obey the laws of the United States", "Give up loyalty to other countries", "Defend the Constitution and laws of the United States", "Serve in the U.S. military (if needed)", "Serve (do important work for) the nation (if needed)", "Be loyal to the United States"],
       "category": "Rule of Law"
     },
     {
@@ -327,7 +327,7 @@
     {
       "id": 55,
       "question": "What are two ways that Americans can participate in their democracy?",
-      "answer": ["Vote", "Join a political party", "Help with a campaign", "Join a civic group", "Join a community group", "Publicly support or oppose an issue or policy", "Run for office", "Write to a newspaper"],
+      "answer": ["Vote", "Join a political party", "Run for office", "Help with a campaign", "Join a civic group", "Join a community group", "Publicly support or oppose an issue or policy", "Write to a newspaper"],
       "category": "Rule of Law"
     },
     {
@@ -345,7 +345,7 @@
     {
       "id": 58,
       "question": "What is one reason colonists came to America?",
-      "answer": ["Freedom", "Political liberty", "Religious freedom", "Economic opportunity", "Practice their religion", "Escape persecution"],
+      "answer": ["Freedom", "Economic opportunity", "Practice their religion", "Political liberty", "Religious freedom", "Escape persecution"],
       "category": "Colonial Period and Independence"
     },
     {
@@ -381,7 +381,7 @@
     {
       "id": 64,
       "question": "There were 13 original states. Name three.",
-      "answer": ["New Hampshire", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "North Carolina", "South Carolina", "Georgia"],
+      "answer": ["New York", "New Jersey", "New Hampshire", "Massachusetts", "Rhode Island", "Connecticut", "Pennsylvania", "Delaware", "Maryland", "Virginia", "North Carolina", "South Carolina", "Georgia"],
       "category": "Colonial Period and Independence"
     },
     {
@@ -519,7 +519,7 @@
     {
       "id": 87,
       "question": "Name one American Indian tribe in the United States.",
-      "answer": ["Cherokee", "Navajo", "Sioux", "Chippewa", "Choctaw", "Pueblo", "Apache", "Iroquois", "Creek", "Blackfeet", "Seminole", "Cheyenne", "Arawak", "Shawnee", "Mohegan", "Huron", "Oneida", "Lakota", "Crow", "Teton", "Hopi", "Inuit"],
+      "answer": ["Crow", "Cherokee", "Navajo", "Sioux", "Chippewa", "Choctaw", "Pueblo", "Apache", "Iroquois", "Creek", "Blackfeet", "Seminole", "Cheyenne", "Arawak", "Shawnee", "Mohegan", "Huron", "Oneida", "Lakota", "Teton", "Hopi", "Inuit"],
       "category": "1900s and Recent History"
     },
     {
@@ -549,7 +549,7 @@
     {
       "id": 92,
       "question": "Name one state that borders Canada.",
-      "answer": ["Maine", "New Hampshire", "Vermont", "New York", "Pennsylvania", "Ohio", "Michigan", "Minnesota", "North Dakota", "Montana", "Idaho", "Washington", "Alaska"],
+      "answer": ["New York", "New Hampshire", "Maine", "Vermont", "Pennsylvania", "Ohio", "Michigan", "Minnesota", "North Dakota", "Montana", "Idaho", "Washington", "Alaska"],
       "category": "Geography"
     },
     {
@@ -597,7 +597,7 @@
     {
       "id": 100,
       "question": "Name two national U.S. holidays.",
-      "answer": ["New Year's Day", "Martin Luther King, Jr. Day", "Presidents' Day", "Memorial Day", "Independence Day", "Labor Day", "Columbus Day", "Veterans Day", "Thanksgiving", "Christmas"],
+      "answer": ["Thanksgiving", "Christmas", "New Year's Day", "Martin Luther King, Jr. Day", "Presidents' Day", "Memorial Day", "Independence Day", "Labor Day", "Columbus Day", "Veterans Day"],
       "category": "Holidays"
     }
   ],
